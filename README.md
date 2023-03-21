@@ -1,3 +1,3 @@
 # Learning Diary
 
-## Creating an app to input "journal entries" for this you've learned using Django
+## Creating an app to input "journal entries" for things you've learned.  Created using Python and Django
