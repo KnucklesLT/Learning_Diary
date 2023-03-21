@@ -1,0 +1,10 @@
+{% extends 'learning_diary/base.html' %}
+
+{% block content %}
+
+<p><a href="{% url 'learning_diary:topic' topic.id %}">{{ topic }}</a></p>
+
+<p>Add a new entry:</p>
+
+
+{% endblock content %}
